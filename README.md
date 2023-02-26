@@ -5,7 +5,6 @@ Examples
 "double  spaces"      ==> "elbuod  secaps"
 
 <br>
-<i>
-  Link to the challenge on Codewars:<br>
-  https://www.codewars.com/kata/5259b20d6021e9e14c0010d4
-</i>
+
+Link to the challenge on Codewars:<br>
+https://www.codewars.com/kata/5259b20d6021e9e14c0010d4
